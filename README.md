@@ -1,6 +1,7 @@
 ![Image](https://github.com/luisamlr/cv/blob/main/image.png?raw=true)
-## Hi! This page displays links to documents such as my cv and insights into my academic career, personal experience & achievements. Feel free to browse the links below.
 ___________
+## Hi! This page displays links to documents such as my cv and insights into my academic career, personal experience & achievements. Feel free to browse the links below.
+
 # CV 
 [click here](https://drive.google.com/file/d/1DWi8aWtnbn1Cl0AMm2Za4_p3mJO3KC19/view?usp=share_link)
 
