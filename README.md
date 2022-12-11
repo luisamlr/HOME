@@ -1,4 +1,4 @@
-![Image](https://github.com/luisamlr/personal-page/blob/main/image.png?raw=true)
+![Image](https://github.com/luisamlr/cv/blob/main/image.png?raw=true)
 ___________
 ## Hi! This page displays links to documents such as my cv and insights into my academic career, personal experience & achievements. Feel free to browse the links below.
 
@@ -10,7 +10,7 @@ ___________
  
 [2018 - Pierburg GmbH (Rheinmetall AG) Internship in Purchasing (German only)](https://drive.google.com/file/d/1CZ863fv-7-5DcwrUuvBEg_nNmkiGMfXB/view?usp=share_link)
 
-# Additional Courses
+# Courses
 [2017 - Harvard University - Management Course](https://drive.google.com/file/d/1ngQ9T0lERvHGCwKYbAIRxnv6OFvS5GJs/view?usp=share_link) 
 
 [2016 - DAMK Akademie Dusseldorf - Marketing und Werbung](https://drive.google.com/file/d/1A4uZSKLBduCLOxwrJtr1rgacXJ2hTckY/view?usp=share_link)
