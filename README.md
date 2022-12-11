@@ -1,2 +1,3 @@
-# cv
-My personal GitHub page displays my cv with insights into academic career, personal experience and achievements.
+# CV
+### Hi! This page displays my cv with insights into my academic career, personal experience & achievements.
+___________
