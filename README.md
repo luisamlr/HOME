@@ -1,5 +1,5 @@
 [![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
-![alt text](https://github.com/luisamlr/cv/blob/files/image.png?raw=true)
+![Image](https://github.com/luisamlr/cv/blob/main/image.png?raw=true)
 # CV
 ### Hi! This page displays my cv with insights into my academic career, personal experience & achievements.
 ___________
