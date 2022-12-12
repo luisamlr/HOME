@@ -27,4 +27,4 @@ ________________________________
 
 <img src="https://github.com/luisamlr/cv/blob/main/twittericon.png" width="40"> [Visit my Twitter](https://twitter.com/luisaamlr)
 
-<img src="https://github.com/luisamlr/cv/blob/main/linkedinicon.png" width="40"> [Visit my LinkedIn Page](https://www.linkedin.com/in/luisa-mahler-1a3310166/)
+<img src="https://github.com/luisamlr/cv/blob/main/linkedinicon.png" width="40"> [Visit my LinkedIn](https://www.linkedin.com/in/luisa-mahler-1a3310166/)
