@@ -24,5 +24,5 @@
 
 [2014 - Cambridge English First Certificate](https://drive.google.com/file/d/1Q1zwdcBlAa-f9erU_MKxVqmlyLyrA6e5/view?usp=share_link)
 
-![Link to Twitter](https://github.com/luisamlr/cv/main/twittericon" = 50x50)
-![Link to LinkedIn](https://github.com/luisamlr/cv/main/linkedinicon" = 50x50)
+![Image](https://github.com/luisamlr/cv/main/twittericon" = 50x50)
+![Image](https://github.com/luisamlr/cv/main/linkedinicon" = 50x50)
