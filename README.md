@@ -27,4 +27,4 @@
 
 <img src="https://user-images.githubusercontent.com/115930123/206968062-e8518a24-f448-4435-b9d5-4c6610e5d90f.png" width="40"> [Visit my Twitter](https://twitter.com/luisaamlr)
 
-<img src="[https://github.com/luisamlr/cv/blob/main/linkedinicon.png](https://user-images.githubusercontent.com/115930123/206968144-6a2ca546-407f-4172-bc95-c5f8f2d2f09a.png)" width="40"> [Visit my LinkedIn](https://www.linkedin.com/in/luisa-mahler-1a3310166/)
+<img src="https://user-images.githubusercontent.com/115930123/206968144-6a2ca546-407f-4172-bc95-c5f8f2d2f09a.png" width="40"> [Visit my LinkedIn](https://www.linkedin.com/in/luisa-mahler-1a3310166/)
