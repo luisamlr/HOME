@@ -1,4 +1,4 @@
-![Image](https://user-images.githubusercontent.com/115930123/206968662-029395c4-f708-445d-9fa4-e173e63ab2ee.png) 
+![Image](https://luisamlr.github.io/cv/image.jpg) 
  
 ## Hi! This page displays links to documents such as my cv and insights into my academic career, personal experience & achievements. Feel free to browse the documents as well as the social media links below.
 
