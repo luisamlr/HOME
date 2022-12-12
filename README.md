@@ -1,4 +1,4 @@
-![Image](https://github.com/luisamlr/cv/blob/main/image.png) 
+![Image](https://github.com/luisamlr/cv/main/image.png) 
  
 ## Hi! This page displays links to documents such as my cv and insights into my academic career, personal experience & achievements. Feel free to browse the documents as well as the social media links below.
 
@@ -25,6 +25,6 @@
 [2014 - Cambridge English First Certificate](https://drive.google.com/file/d/1Q1zwdcBlAa-f9erU_MKxVqmlyLyrA6e5/view?usp=share_link)
 
 
-<img src="https://github.com/luisamlr/cv/blob/main/twittericon.png" width="40"> [Visit my Twitter](https://twitter.com/luisaamlr)
+<img src="https://github.com/luisamlr/cv/main/twittericon.png" width="40"> [Visit my Twitter](https://twitter.com/luisaamlr)
 
 <img src="https://github.com/luisamlr/cv/blob/main/linkedinicon.png" width="40"> [Visit my LinkedIn](https://www.linkedin.com/in/luisa-mahler-1a3310166/)
