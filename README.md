@@ -25,6 +25,6 @@
 [2014 - Cambridge English First Certificate](https://drive.google.com/file/d/1Q1zwdcBlAa-f9erU_MKxVqmlyLyrA6e5/view?usp=share_link)
 
 
-<img src="https://github.com/luisamlr/cv/main/twittericon.png" width="40"> [Visit my Twitter](https://twitter.com/luisaamlr)
+<img src="[https://github.com/luisamlr/cv/main/twittericon.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fblack%2Ftwitter-512.jpg&imgrefurl=https%3A%2F%2Fwww.iconsdb.com%2Fblack-icons%2Ftwitter-icon.html&tbnid=HKRjplHKGOs3IM&vet=12ahUKEwjhxoSprPP7AhVLz7sIHan7DlgQMygCegUIARDHAQ..i&docid=JyLyn0A1EU2FxM&w=512&h=512&q=twitter%20icon%20black%20white&ved=2ahUKEwjhxoSprPP7AhVLz7sIHan7DlgQMygCegUIARDHAQ)" width="40"> [Visit my Twitter](https://twitter.com/luisaamlr)
 
 <img src="https://github.com/luisamlr/cv/blob/main/linkedinicon.png" width="40"> [Visit my LinkedIn](https://www.linkedin.com/in/luisa-mahler-1a3310166/)
