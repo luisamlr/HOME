@@ -23,7 +23,8 @@
 [2022 - VBA](https://drive.google.com/file/d/1OMIgYndikMYKj1CbhDNx13kkhLvxDqXJ/view?usp=share_link) 
 
 [2014 - Cambridge English First Certificate](https://drive.google.com/file/d/1Q1zwdcBlAa-f9erU_MKxVqmlyLyrA6e5/view?usp=share_link)
+________________________________
 
-<img src="https://github.com/luisamlr/cv/blob/main/twittericon.png" width="40"> [Link to Twitter](https://twitter.com/luisaamlr)
+<img src="https://github.com/luisamlr/cv/blob/main/twittericon.png" width="40"> [Visit my Twitter](https://twitter.com/luisaamlr)
 
-<img src="https://github.com/luisamlr/cv/blob/main/linkedinicon.png" width="40"> [Link to LinkedIn](https://www.linkedin.com/in/luisa-mahler-1a3310166/)
+<img src="https://github.com/luisamlr/cv/blob/main/linkedinicon.png" width="40"> [Visit my LinkedIn Page](https://www.linkedin.com/in/luisa-mahler-1a3310166/)
