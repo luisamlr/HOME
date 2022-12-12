@@ -13,7 +13,7 @@ ___________
 # Courses
 [2017 - Harvard University - Management Course](https://drive.google.com/file/d/1ngQ9T0lERvHGCwKYbAIRxnv6OFvS5GJs/view?usp=share_link) 
 
-[2016 - DAMK Akademie Dusseldorf - Marketing und Werbung](https://drive.google.com/file/d/1A4uZSKLBduCLOxwrJtr1rgacXJ2hTckY/view?usp=share_link)
+[2016 - DAMK Akademie Dusseldorf - Marketing und Werbung (German only)](https://drive.google.com/file/d/1A4uZSKLBduCLOxwrJtr1rgacXJ2hTckY/view?usp=share_link)
 
 # Additional Certifications
 [2022 - SPSS](https://drive.google.com/file/d/1FNRv9v9iQsGHmCT9tRP8r_c1rw76nc9F/view?usp=share_link) 
