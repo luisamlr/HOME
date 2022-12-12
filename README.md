@@ -1,4 +1,4 @@
-![Image](https://luisamlr.github.io/cv/blob/main/image.png) 
+![Image](image.png) 
  
 ## Hi! This page displays links to documents such as my cv and insights into my academic career, personal experience & achievements. Feel free to browse the documents as well as the social media links below.
 
